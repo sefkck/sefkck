@@ -1,5 +1,5 @@
 <h1 align="center">👋 Merhaba, Ben Sefa 👋</h1>
-<h3 align="center">İçerik Üretici ve Programlama Öğrrencisiyim</h3>
+<h3 align="center">İçerik Üretici ve Programlama Öğrencisiyim</h3>
 <h3 align="center">🛠️ Yetenek Setim</h3>
 <p align="center">
   <!-- C++ -->
