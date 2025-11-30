@@ -7,7 +7,7 @@
 </p>
 <h3 align="left">📈 GitHub İstatistikleri ve Diller</h3>
 
-
+<img src="https://github-readme-stats.vercel.app/api?username=sefkck&show_icons=true&theme=dark&hide_border=true&locale=tr" alt="GitHub İstatistiklerim" width="48%" />
  <!--<p align="center">-->
   <!-- Genel İstatistik Kartı 
   <img src="https://github-readme-stats.vercel.app/api?username=sefkck&show_icons=true&theme=dark&hide_border=true&locale=tr" alt="GitHub İstatistiklerim" width="48%" />-->
