@@ -5,7 +5,7 @@
   <!-- C++ -->
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Rozeti"/>
 </p>
-<h3 align="left">📈 GitHub İstatistikleri</h3>
+<h3 align="center">📈 GitHub İstatistikleri</h3>
 
 <p align="center">
   <!-- Katkı Serisi (Streak) Kartı -->
