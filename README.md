@@ -10,7 +10,7 @@
 Atatürk Üniversitesi'nde **Bilgisayar Programcılığı** öğrencisiyim. Yazılım dünyasında kendimi geliştirirken aynı zamanda dijital içerik üretimi ve sosyal medya yönetimi ile ilgileniyorum. Karmaşık problemleri basit kodlarla çözmeyi ve estetik görseller yaratmayı seviyorum.
 
 * 🎓 **Eğitim:** Atatürk Üniversitesi - Bilgisayar Programcılığı
-* 💻 **Odak Noktam:** C#, .NET ve Veritabanı Yönetimi
+* 💻 **Odak Noktam:** C++, C#, .NET ve Veritabanı Yönetimi
 * 🎬 **Tutkum:** Sinematik video kurgusu (Wong Kar-wai tarzı ışık ve renkler!)
 * 🛠️ **Şu an ne yapıyorum?** C# ile ATM ve Takvim uygulamaları geliştiriyorum.
 
