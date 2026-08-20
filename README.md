@@ -37,7 +37,7 @@ Learn → Build → Break → Fix → Improve → Repeat
 
 ### 🌐 Web Development
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
@@ -47,7 +47,7 @@ Learn → Build → Break → Fix → Improve → Repeat
 
 ### 💻 Programming Languages
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=cs,cpp,kotlin" />
 </p>
 
@@ -57,7 +57,7 @@ Learn → Build → Break → Fix → Improve → Repeat
 
 ### 🗄️ Database
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=mssql" />
 </p>
 
@@ -67,7 +67,7 @@ Learn → Build → Break → Fix → Improve → Repeat
 
 ### 🔧 Development Tools
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,androidstudio" />
 </p>
 
@@ -110,11 +110,8 @@ Learn → Build → Break → Fix → Improve → Repeat
 # 📊 GitHub Statistics | GitHub İstatistikleri
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sefkck&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sefkck&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=sefkck&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sefkck&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
 </p>
 
 ---
@@ -122,19 +119,7 @@ Learn → Build → Break → Fix → Improve → Repeat
 # 🔥 Contribution Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=sefkck&theme=tokyonight&hide_border=true" />
-
-</p>
-
----
-
-# 📈 GitHub Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sefkck&theme=tokyo-night&hide_border=true" />
-
+  <img src="https://streak-stats.demolab.com/?user=sefkck&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -144,15 +129,15 @@ Learn → Build → Break → Fix → Improve → Repeat
 ```text
 HTML / CSS / JavaScript
           ↓
-     C# & C++
+       C# / C++
           ↓
-    SQL / MSSQL
+      SQL / MSSQL
           ↓
-      Kotlin
+        Kotlin
           ↓
  Android Development
           ↓
-   Backend Development
+  Backend Development
 ```
 
 🇬🇧 I'm continuously improving my skills by building projects and learning through practice.
@@ -174,15 +159,15 @@ HTML / CSS / JavaScript
 <p align="center">
 
 <a href="https://github.com/sefkck">
-<img src="https://img.shields.io/badge/GitHub-sefkck-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-sefkck-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/sefkck/">
-<img src="https://img.shields.io/badge/LinkedIn-sefkck-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-sefkck-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://www.instagram.com/codewithsef/">
-<img src="https://img.shields.io/badge/Instagram-codewithsef-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Instagram-codewithsef-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 </p>
@@ -190,15 +175,11 @@ HTML / CSS / JavaScript
 ---
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=sefkck&style=flat-square&color=blue"/>
-
+  <img src="https://komarev.com/ghpvc/?username=sefkck&style=flat-square&color=blue" />
 </p>
 
 <p align="center">
-
-### 🚀 Building. Learning. Improving.
-
-### 🚀 Geliştiriyorum. Öğreniyorum. İlerliyorum.
-
+  <b>🚀 Building. Learning. Improving.</b>
+  <br>
+  <b>🚀 Geliştiriyorum. Öğreniyorum. İlerliyorum.</b>
 </p>
