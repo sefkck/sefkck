@@ -107,9 +107,18 @@ Learn → Build → Break → Fix → Improve → Repeat
 
 ---
 
-![sefkck](https://ghchart.rshah.org/ff6600/sefkck)
+## 📊 Contribution Graph
 
-## 🔥 Contribution Streak <p align="center"> <img src="https://streak-stats.demolab.com/?user=sefkck&theme=tokyonight&hide_border=true" width="70%" /> </p> 
+<p align="center">
+  <img src="https://gitcolors.vercel.app/api/svg?username=sefkck&color=ff6600&theme=dark&mode=levels&emptyColor=neutral" alt="sefkck's contribution graph" />
+</p>
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=sefkck&theme=tokyonight&hide_border=true" width="70%" />
+</p>
+
 # 📚 Currently Learning | Şu Anda Öğreniyorum
 
 ```text
