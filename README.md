@@ -108,19 +108,11 @@ Learn → Build → Break → Fix → Improve → Repeat
 ---
 
 ## 📊 GitHub Statistics | GitHub İstatistikleri
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=sefkck&show_icons=true&theme=tokyonight&hide_border=true"
-    width="49%"
-  />
 
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sefkck&layout=compact&theme=tokyonight&hide_border=true"
-    width="49%"
-  />
-</p>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sefkck&show_icons=true&theme=tokyonight)
 ---
-
+## 🔥 Contribution Streak <p align="center"> <img src="https://streak-stats.demolab.com/?user=sefkck&theme=tokyonight&hide_border=true" width="70%" /> </p> ---
 # 📚 Currently Learning | Şu Anda Öğreniyorum
 
 ```text
