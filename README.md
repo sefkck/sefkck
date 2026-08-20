@@ -1,14 +1,10 @@
 # 👋 Hi, I'm Sefa Koçak
 
-### 💻 Developer | Web • Backend • Android • Automation
+### 💻 Developer | Web • Backend • Android
 
-🇬🇧 **English**
+🇬🇧 I'm a developer who enjoys building real projects, learning new technologies, and turning ideas into working applications.
 
-I'm a developer who enjoys building real projects, learning new technologies, and turning ideas into working applications.
-
-🇹🇷 **Türkçe**
-
-Gerçek projeler geliştirmeyi, yeni teknolojiler öğrenmeyi ve fikirleri çalışan uygulamalara dönüştürmeyi seven bir geliştiriciyim.
+🇹🇷 Gerçek projeler geliştirmeyi, yeni teknolojiler öğrenmeyi ve fikirleri çalışan uygulamalara dönüştürmeyi seven bir geliştiriciyim.
 
 ```text
 Learn → Build → Break → Fix → Improve → Repeat
@@ -19,67 +15,81 @@ Learn → Build → Break → Fix → Improve → Repeat
 
 ## 🚀 About Me | Hakkımda
 
-🇬🇧 I'm currently focused on:
+🇬🇧 Currently focused on:
 
 * 🌐 Web Development
 * ⚙️ Backend Development
 * 📱 Android Development
-* 🤖 Automation & AI
-* 🗄️ Databases & APIs
-
+* 🗄️ Database Development
+* 💻 Software Development
 
 🇹🇷 Şu anda özellikle şu alanlara odaklanıyorum:
 
 * 🌐 Web geliştirme
 * ⚙️ Backend geliştirme
 * 📱 Android geliştirme
-* 🤖 Otomasyon ve yapay zekâ
-* 🗄️ Veritabanları ve API'ler
-
-
----
-
-## 🛠️ Tech Stack | Teknolojiler
-
-### Languages | Diller
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,cs,cpp,kotlin,python" />
-</p>
-
-### Tools & Technologies | Araçlar ve Teknolojiler
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,androidstudio,unity,wordpress,mysql,sqlite" />
-</p>
+* 🗄️ Veritabanı geliştirme
+* 💻 Yazılım geliştirme
 
 ---
 
-## 🔥 Featured Projects | Öne Çıkan Projeler
+# 🧰 Technologies | Teknolojiler
+
+### 🌐 Web Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+**HTML • CSS • JavaScript**
+
+---
+
+### 💻 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,cpp,kotlin" />
+</p>
+
+**C# • C++ • Kotlin**
+
+---
+
+### 🗄️ Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mssql" />
+</p>
+
+**Microsoft SQL Server (MSSQL)**
+
+---
+
+### 🔧 Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,androidstudio" />
+</p>
+
+**Git • GitHub • VS Code • Visual Studio • Android Studio**
+
+---
+
+# 🔥 Featured Projects | Öne Çıkan Projeler
 
 ### ⏱️ Pomodoro Timer
 
-🇬🇧 A clean and simple Pomodoro timer designed to improve focus and productivity.
+🇬🇧 A simple and focused Pomodoro timer designed to improve productivity and help users manage their work sessions.
 
-🇹🇷 Odaklanmayı ve üretkenliği artırmak için geliştirilmiş sade bir Pomodoro uygulaması.
+🇹🇷 Üretkenliği artırmak ve çalışma sürelerini daha verimli yönetmek için geliştirilmiş sade bir Pomodoro uygulaması.
 
 **Tech:** `HTML` `CSS` `JavaScript`
 
 ---
 
-### 📰 AI News Platform
-
-🇬🇧 An automated news platform that collects news, processes it with AI, and prepares content for publishing.
-
-🇹🇷 İnternetten haberleri toplayan, yapay zekâ ile analiz edip içerik haline getiren otomatik bir haber platformu.
-
-**Tech:** `WordPress` `Python` `APIs` `AI` `Telegram`
-
----
-
 ### 🕌 Local Time & Prayer App
 
-🇬🇧 An Android application that uses location information to provide local time and prayer times.
+🇬🇧 An Android application designed to display local time and prayer times based on location information.
 
 🇹🇷 Konum bilgisine göre yerel saati ve namaz vakitlerini gösteren Android uygulaması.
 
@@ -87,30 +97,71 @@ Learn → Build → Break → Fix → Improve → Repeat
 
 ---
 
+### 🗄️ Database Projects
 
-## 📚 Currently Learning | Şu Anda Öğreniyorum
+🇬🇧 Database-focused projects built to practice SQL, data management, queries, and application-database integration.
 
-```text
-JavaScript
-    ↓
-Backend Development
-    ↓
-REST APIs
-    ↓
-Databases
-    ↓
-Android Development
-    ↓
-Automation & AI
-```
+🇹🇷 SQL, veri yönetimi, sorgular ve uygulama-veritabanı entegrasyonu üzerine geliştirdiğim projeler.
 
-🇬🇧 **I'm continuously improving my skills by building projects and experimenting with new technologies.**
-
-🇹🇷 **Projeler geliştirerek ve yeni teknolojileri deneyerek kendimi sürekli geliştirmeye çalışıyorum.**
+**Tech:** `C#` `C++` `MSSQL`
 
 ---
 
-## 🎯 My Philosophy | Geliştirme Felsefem
+# 📊 GitHub Statistics | GitHub İstatistikleri
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sefkck&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sefkck&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
+</p>
+
+---
+
+# 🔥 Contribution Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=sefkck&theme=tokyonight&hide_border=true" />
+
+</p>
+
+---
+
+# 📈 GitHub Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sefkck&theme=tokyo-night&hide_border=true" />
+
+</p>
+
+---
+
+# 📚 Currently Learning | Şu Anda Öğreniyorum
+
+```text
+HTML / CSS / JavaScript
+          ↓
+     C# & C++
+          ↓
+    SQL / MSSQL
+          ↓
+      Kotlin
+          ↓
+ Android Development
+          ↓
+   Backend Development
+```
+
+🇬🇧 I'm continuously improving my skills by building projects and learning through practice.
+
+🇹🇷 Projeler geliştirerek ve pratik yaparak kendimi sürekli geliştirmeye devam ediyorum.
+
+---
+
+# 🎯 My Philosophy | Geliştirme Felsefem
 
 > 🇬🇧 Don't just learn the technology. Build something with it.
 >
@@ -118,29 +169,20 @@ Automation & AI
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sefkck&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sefkck&layout=compact&theme=tokyonight&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
-
-## 🌐 Find Me | Bana Ulaş
+# 🌐 Find Me | Bana Ulaş
 
 <p align="center">
 
 <a href="https://github.com/sefkck">
-  <img src="https://img.shields.io/badge/GitHub-sefkck-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-sefkck-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/sefkck/">
-  <img src="https://img.shields.io/badge/LinkedIn-sefkck-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-sefkck-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://www.instagram.com/codewithsef/">
-  <img src="https://img.shields.io/badge/Instagram-codewithsef-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<img src="https://img.shields.io/badge/Instagram-codewithsef-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </p>
@@ -148,7 +190,9 @@ Automation & AI
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sefkck&style=flat-square&color=blue" />
+
+<img src="https://komarev.com/ghpvc/?username=sefkck&style=flat-square&color=blue"/>
+
 </p>
 
 <p align="center">
