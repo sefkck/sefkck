@@ -121,13 +121,6 @@ Learn → Build → Break → Fix → Improve → Repeat
 </p>
 ---
 
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sefkck&theme=tokyonight&hide_border=true" width="70%" />
-</p>
----
-
 # 📚 Currently Learning | Şu Anda Öğreniyorum
 
 ```text
