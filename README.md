@@ -1,59 +1,160 @@
-<h1 align="center">👋 Merhaba, Ben Sefa!</h1>
+# 👋 Hi, I'm Sefa Koçak
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00599C&center=true&vCenter=true&width=435&lines=Bilgisayar+Programcılığı+Öğrencisi;İçerik+Üreticisi+|+Dijital+Pazarlama;C%23+|+ASP.NET+MVC+Aşığı" alt="Typing SVG" />
+### 💻 Developer | Web • Backend • Android • Automation
+
+🇬🇧 **English**
+
+I'm a developer who enjoys building real projects, learning new technologies, and turning ideas into working applications.
+
+🇹🇷 **Türkçe**
+
+Gerçek projeler geliştirmeyi, yeni teknolojiler öğrenmeyi ve fikirleri çalışan uygulamalara dönüştürmeyi seven bir geliştiriciyim.
+
+```text
+Learn → Build → Break → Fix → Improve → Repeat
+Öğren → Geliştir → Boz → Düzelt → Geliştir → Tekrar Et
+```
+
+---
+
+## 🚀 About Me | Hakkımda
+
+🇬🇧 I'm currently focused on:
+
+* 🌐 Web Development
+* ⚙️ Backend Development
+* 📱 Android Development
+* 🤖 Automation & AI
+* 🗄️ Databases & APIs
+
+
+🇹🇷 Şu anda özellikle şu alanlara odaklanıyorum:
+
+* 🌐 Web geliştirme
+* ⚙️ Backend geliştirme
+* 📱 Android geliştirme
+* 🤖 Otomasyon ve yapay zekâ
+* 🗄️ Veritabanları ve API'ler
+
+
+---
+
+## 🛠️ Tech Stack | Teknolojiler
+
+### Languages | Diller
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,cs,cpp,kotlin,python" />
+</p>
+
+### Tools & Technologies | Araçlar ve Teknolojiler
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,androidstudio,unity,wordpress,mysql,sqlite" />
 </p>
 
 ---
 
-### 🚀 Hakkımda
-Atatürk Üniversitesi'nde **Bilgisayar Programcılığı** öğrencisiyim. Yazılım dünyasında kendimi geliştirirken aynı zamanda dijital içerik üretimi ve sosyal medya yönetimi ile ilgileniyorum. Karmaşık problemleri basit kodlarla çözmeyi ve estetik görseller yaratmayı seviyorum.
+## 🔥 Featured Projects | Öne Çıkan Projeler
 
-* 🎓 **Eğitim:** Atatürk Üniversitesi - Bilgisayar Programcılığı
-* 💻 **Odak Noktam:** C++, C#, .NET ve Veritabanı Yönetimi
-* 🎬 **Tutkum:** Sinematik video kurgusu 
+### ⏱️ Pomodoro Timer
 
----
+🇬🇧 A clean and simple Pomodoro timer designed to improve focus and productivity.
 
-### 🛠️ Yetenek Setim
+🇹🇷 Odaklanmayı ve üretkenliği artırmak için geliştirilmiş sade bir Pomodoro uygulaması.
 
-<div align="center">
-
-  **Yazılım & Programlama**
-  
-  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
- 
-  **Tasarım & İçerik**
-  
-  ![Adobe Premiere](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
-  ![Meta Ads](https://img.shields.io/badge/Meta_Ads-0668E1?style=for-the-badge&logo=meta&logoColor=white)
-  ![Content Creation](https://img.shields.io/badge/Content_Creation-FF4B4B?style=for-the-badge)
-
-</div>
+**Tech:** `HTML` `CSS` `JavaScript`
 
 ---
 
-### 📈 GitHub İstatistikleri
+### 📰 AI News Platform
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sefkck&show_icons=true&theme=tokyonight" alt="Sefa'nın İstatistikleri" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sefkck&theme=tokyonight&hide_border=true" alt="Katkı Serim" />
-</div>
+🇬🇧 An automated news platform that collects news, processes it with AI, and prepares content for publishing.
+
+🇹🇷 İnternetten haberleri toplayan, yapay zekâ ile analiz edip içerik haline getiren otomatik bir haber platformu.
+
+**Tech:** `WordPress` `PHP` `Python` `APIs` `AI` `Telegram`
 
 ---
 
-### 📫 Benimle İletişime Geç
-Profesyonel iş birlikleri veya yazılım sohbetleri için aşağıdaki kanallardan ulaşabilirsin:
+### 🕌 Local Time & Prayer App
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/sefkck" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sefa LinkedIn" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/codewithsef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Sefa Instagram" height="30" width="40" /></a>
+🇬🇧 An Android application that uses location information to provide local time and prayer times.
+
+🇹🇷 Konum bilgisine göre yerel saati ve namaz vakitlerini gösteren Android uygulaması.
+
+**Tech:** `Kotlin` `Android Studio` `REST API`
+
+---
+
+
+## 📚 Currently Learning | Şu Anda Öğreniyorum
+
+```text
+JavaScript
+    ↓
+Backend Development
+    ↓
+REST APIs
+    ↓
+Databases
+    ↓
+Android Development
+    ↓
+Automation & AI
+```
+
+🇬🇧 **I'm continuously improving my skills by building projects and experimenting with new technologies.**
+
+🇹🇷 **Projeler geliştirerek ve yeni teknolojileri deneyerek kendimi sürekli geliştirmeye çalışıyorum.**
+
+---
+
+## 🎯 My Philosophy | Geliştirme Felsefem
+
+> 🇬🇧 Don't just learn the technology. Build something with it.
+>
+> 🇹🇷 Sadece teknolojiyi öğrenme. Onunla bir şeyler geliştir.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sefkck&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sefkck&layout=compact&theme=tokyonight&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+## 🌐 Find Me | Bana Ulaş
+
+<p align="center">
+
+<a href="https://github.com/sefkck">
+  <img src="https://img.shields.io/badge/GitHub-sefkck-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/sefkck/">
+  <img src="https://img.shields.io/badge/LinkedIn-sefkck-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/codewithsef/">
+  <img src="https://img.shields.io/badge/Instagram-codewithsef-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
 </p>
 
 ---
 
 <p align="center">
-  <i>"Kod yazmak, dijital dünyada şiir yazmaktır."</i>
+  <img src="https://komarev.com/ghpvc/?username=sefkck&style=flat-square&color=blue" />
+</p>
+
+<p align="center">
+
+### 🚀 Building. Learning. Improving.
+
+### 🚀 Geliştiriyorum. Öğreniyorum. İlerliyorum.
+
 </p>
