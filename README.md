@@ -73,7 +73,7 @@ Learn → Build → Break → Fix → Improve → Repeat
 
 🇹🇷 İnternetten haberleri toplayan, yapay zekâ ile analiz edip içerik haline getiren otomatik bir haber platformu.
 
-**Tech:** `WordPress` `PHP` `Python` `APIs` `AI` `Telegram`
+**Tech:** `WordPress` `Python` `APIs` `AI` `Telegram`
 
 ---
 
